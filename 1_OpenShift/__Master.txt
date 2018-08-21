@@ -1,0 +1,16 @@
+Magyar összefoglaló: http://ulx.hu/termekek/red-hat/openshift-enterprise/
+
+Interaktív tanulás: https://learn.openshift.com/introduction/getting-started/
+
+cat
+
+Kérdések:
+
+1. Hol van, hogyan tudom elérni az OTP Git Repository-ját, ha van ilyen? (usernev/jelszo, link
+2.
+
+OpenShift telepítése: https://www.youtube.com/watch?time_continue=13&v=aqXSbDZggK4
+
+Dockeriált shell script:
+https://docs.docker.com/samples/library/bash/#notes
+
